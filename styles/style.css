@@ -1,0 +1,37 @@
+/* using id */
+#h1{
+    color: rgb(112, 112, 133);
+    text-align: center;
+}
+
+#hello1{
+    color: blueviolet;
+}
+#hello4{
+    color: rgb(92, 117, 87);
+}
+
+/* using tag name */
+
+h2{
+    color: rgb(98, 105, 105);
+}
+
+/* using class */
+
+.classOne{
+    color: rgb(98, 118, 119);
+    background-color: rgb(72, 78, 78);
+    padding: 10px;
+}
+/* using margin padding */
+#classDiv{
+    margin: 100px 10px;
+    padding: 10px;
+    border: 2px solid rgb(130, 138, 138);
+    background-color: rgb(223, 228, 228);
+}
+/* font size */
+#p{
+    font-size: 25px;
+}
